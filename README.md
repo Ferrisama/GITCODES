@@ -1,4 +1,4 @@
-# VITMAS GITHELP
+# GITHELP
 <br>
 <h2>GIT Commands</h2>
 <h3>git add</h3>
